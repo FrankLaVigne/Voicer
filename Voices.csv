@@ -1,0 +1,251 @@
+actorId,name,isFeMale,categoryType,voiceAge,languageName,countryName
+1,Sonia,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+2,Libby,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+3,Ryan,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+4,Jenny,TRUE,,,English (United States),United States
+5,Guy,FALSE,Premium,Middle Aged,English (United States),United States
+6,Aria,TRUE,Premium,Middle Aged,English (United States),United States
+7,Natasha,TRUE,Premium,Middle Aged,English (Australia),Australia
+8,William,FALSE,Premium,Middle Aged,English (Australia),Australia
+9,Clara,TRUE,Premium,Middle Aged,English (Canada),Canada
+10,Liam,FALSE,Premium,Middle Aged,English (Canada),Canada
+11,Connor,FALSE,,,English (Ireland),Ireland
+12,Emily,TRUE,Premium,Youth,English (Ireland),Ireland
+13,Neerja,TRUE,Premium,Middle Aged,English (India),India
+14,Prabhat,FALSE,Premium,Elder,English (India),India
+55,Sam,FALSE,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR
+56,ya,TRUE,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR
+57,Mitchell,FALSE,Premium,Middle Aged,English (New Zealand),New Zealand
+58,Molly,TRUE,Premium,Middle Aged,English (New Zealand),New Zealand
+59,James,FALSE,Premium,youth,English (Philippines),Philippines
+60,Rosa,TRUE,Premium,youth,English (Philippines),Philippines
+61,Luna,TRUE,Premium,Middle Aged,English (Singapore),Singapore
+62,Wayne,FALSE,Premium,Middle Aged,English (Singapore),Singapore
+63,Jenny Multilingual,TRUE,,,English (United States),United States
+64,Amber,TRUE,Premium,youth,English (United States),United States
+65,Ana,TRUE,Premium,youth,English (United States),United States
+66,Ashley,TRUE,Premium,youth,English (United States),United States
+67,Brando,FALSE,Premium,Middle Aged,English (United States),United States
+68,Christopher,FALSE,Premium,Middle Aged,English (United States),United States
+69,Cora,TRUE,Premium,Middle Aged,English (United States),United States
+70,Elizabeth,TRUE,Premium,Middle Aged,English (United States),United States
+71,Eric,FALSE,Premium,Middle Aged,English (United States),United States
+72,Jacob,FALSE,Premium,Middle Aged,English (United States),United States
+73,Michelle,TRUE,Premium,Middle Aged,English (United States),United States
+74,Monica,TRUE,Premium,Middle Aged,English (United States),United States
+75,Leah,TRUE,Premium,Middle Aged,English (South Africa),South Africa
+76,Luke,FALSE,Premium,Middle Aged,English (South Africa),South Africa
+177,Abbi,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+178,Bella,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+179,Hollie,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+180,Olivia,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+181,Maisie,TRUE,Premium,Youth,English (United Kingdom),United Kingdom
+182,Alfie,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+183,Elliot,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
+184,Etha,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
+185,Noah,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+186,Oliver,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+187,Thomas,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+251,Asilia,TRUE,Premium,Middle Aged,English (Kenya),Kenya
+252,Chilemba,FALSE,Premium,Middle Aged,English (Kenya),Kenya
+253,Ezinne,TRUE,,,English (Nigeria),Nigeria
+254,Abeo,FALSE,Premium,Middle Aged,English (Nigeria),Nigeria
+255,Imani,TRUE,Premium,Middle Aged,English (Tanzania),Tanzania
+256,Elimu,FALSE,Premium,Middle Aged,English (Tanzania),Tanzania
+257,Sara,TRUE,,,English (United States),United States
+411,Laura,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+412,Geralt,FALSE,Ultra Lifelike,Middle Aged,English (United Kingdom),United Kingdom
+413,Grace,TRUE,,,English (United Kingdom),United Kingdom
+414,Mina,TRUE,Ultra Lifelike,Elder,English (United Kingdom),United Kingdom
+415,Norman,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+416,Viki,TRUE,Ultra Lifelike,Youth,English (United States),United States
+417,Vanessa,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+418,Zimmer,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+419,Fiona,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+420,Ian,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+422,Christine,TRUE,,,English (United States),United States
+423,Johnson,FALSE,Ultra Lifelike,Elder,English (United States),United States
+424,Ria,TRUE,Ultra Lifelike,Elder,English (United States),United States
+425,Tommy,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+426,Molly,TRUE,Premium,Middle Aged,English (United States),United States
+427,Angie,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+428,Alice,TRUE,Ultra Lifelike,Youth,English (United States),United States
+429,Christiana,TRUE,Ultra Lifelike,Youth,English (United States),United States
+430,Mike,FALSE,Ultra Lifelike,Elder,English (United States),United States
+431,Simon,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+432,Bianca,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+433,Fred,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+434,Kiara,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+435,Ray,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+436,Tom,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+437,Anthony,FALSE,Ultra Lifelike,Middle Aged,English (Canada),Canada
+438,Axel,TRUE,Ultra Lifelike,Elder,English (Philippines),Philippines
+439,Cameron,FALSE,Ultra Lifelike,Middle Aged,English (Kenya),Kenya
+440,Jaxon,FALSE,Ultra Lifelike,Middle Aged,English (Brazil),Brazil
+441,Julia,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+442,Landon,FALSE,Ultra Lifelike,Elder,English (United States),United States
+443,Mario,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+444,Angel,FALSE,Ultra Lifelike,Elder,English (United States),United States
+445,Ayden,FALSE,Ultra Lifelike,Middle Aged,English (Philippines),Philippines
+447,Elena,TRUE,Ultra Lifelike,Elder,English (United States),United States
+448,Emilia,TRUE,Ultra Lifelike,Middle Aged,English (United States),United Kingdom
+449,Erik,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+450,Goran,FALSE,Ultra Lifelike,Elder,English (Australia),Australia
+451,Jude,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+452,Natalie,TRUE,Ultra Lifelike,Middle Aged,English (Canada),Canada
+453,Parker,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+454,Ruby,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+563,Adam,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+565,Mary,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+590,Abram,FALSE,Ultra Lifelike,,English (United States),United States
+591,Alexander,FALSE,Ultra Lifelike,,English (United States),United States
+592,Anastasia,TRUE,Ultra Lifelike,,English (United States),United States
+593,Amado,FALSE,Ultra Lifelike,,English (United States),United States
+594,Anny,TRUE,Ultra Lifelike,,English (United States),United States
+595,Anthony,FALSE,Ultra Lifelike,,English (United States),United States
+596,April,TRUE,Ultra Lifelike,,English (United States),United States
+597,Ariana,TRUE,Ultra Lifelike,,English (United States),United States
+598,Bret,FALSE,Ultra Lifelike,,English (United States),United States
+599,Audrey,TRUE,Ultra Lifelike,,English (United States),United States
+600,Aubrey,TRUE,Ultra Lifelike,,English (United States),United States
+601,Bruce,FALSE,Ultra Lifelike,,English (United States),United States
+602,Bryan,FALSE,Ultra Lifelike,,English (United States),United States
+603,Carter,FALSE,Ultra Lifelike,,English (United States),United States
+604,Charles,FALSE,Ultra Lifelike,,English (United States),United States
+605,Charlotte,TRUE,Ultra Lifelike,,English (United States),United States
+606,Chuck,FALSE,Ultra Lifelike,,English (United States),United States
+607,Clark,FALSE,Ultra Lifelike,,English (United States),United States
+608,Clifton,FALSE,Ultra Lifelike,,English (United States),United States
+609,Cooper,FALSE,Ultra Lifelike,,English (United States),United States
+610,Daisy,TRUE,Ultra Lifelike,,English (United States),United States
+611,Dane,FALSE,Ultra Lifelike,,English (United States),United States
+612,Daniel,FALSE,Ultra Lifelike,,English (United States),United States
+613,Darrell,FALSE,Ultra Lifelike,,English (United States),United States
+615,Dick,FALSE,Ultra Lifelike,,English (United States),United States
+616,Domenic,FALSE,Ultra Lifelike,,English (United States),United States
+617,Dudley,FALSE,Ultra Lifelike,,English (United States),United States
+618,Dylan,FALSE,Ultra Lifelike,,English (United States),United States
+619,Eleanor,TRUE,Ultra Lifelike,,English (United States),United States
+620,Ellie,TRUE,Ultra Lifelike,,English (United States),United States
+621,Evelyn,TRUE,Ultra Lifelike,,English (United States),United States
+622,Fletcher,FALSE,Ultra Lifelike,,English (United States),United States
+623,Flynn,FALSE,Ultra Lifelike,,English (United States),United States
+624,Frederick,FALSE,Ultra Lifelike,,English (United States),United States
+625,Greg,FALSE,Ultra Lifelike,,English (United States),United States
+626,Harper,TRUE,Ultra Lifelike,,English (United States),United States
+627,Harrison,FALSE,Ultra Lifelike,,English (United States),United States
+628,Hudson,FALSE,Ultra Lifelike,,English (United States),United States
+629,Hunter,FALSE,Ultra Lifelike,,English (United States),United States
+630,Jarrett,FALSE,Ultra Lifelike,,English (United States),United States
+631,Jordan,FALSE,Ultra Lifelike,,English (United States),United States
+632,Judson,FALSE,Ultra Lifelike,,English (United States),United States
+633,Julian,FALSE,Ultra Lifelike,,English (United States),United States
+634,Lance,FALSE,Ultra Lifelike,,English (United States),United States
+635,Larry,FALSE,Ultra Lifelike,,English (United States),United States
+636,Logan,FALSE,Ultra Lifelike,,English (United States),United States
+637,Lottie,TRUE,Ultra Lifelike,,English (United States),United States
+638,Madison,TRUE,Ultra Lifelike,,English (United States),United States
+639,Micah,TRUE,Ultra Lifelike,,English (United States),United States
+640,Nolan,FALSE,Ultra Lifelike,,English (United States),United States
+641,Nova,TRUE,Ultra Lifelike,,English (United States),United States
+642,Oliver,FALSE,Ultra Lifelike,,English (United States),United States
+643,Oscar,FALSE,Ultra Lifelike,,English (United States),United States
+644,Pedro,FALSE,Ultra Lifelike,,English (United States),United States
+645,Phoebe,TRUE,Ultra Lifelike,,English (United States),United States
+646,Randall,FALSE,Ultra Lifelike,,English (United States),United States
+647,Reynaldo,FALSE,Ultra Lifelike,,English (United States),United States
+648,Rodrick,FALSE,Ultra Lifelike,,English (United States),United States
+649,Samuel,FALSE,Ultra Lifelike,,English (United States),United States
+650,Susan,TRUE,Ultra Lifelike,,English (United States),United States
+651,Theodore,FALSE,Ultra Lifelike,,English (United States),United States
+652,Wilbur,FALSE,Ultra Lifelike,,English (United States),United States
+653,Wilfred,FALSE,Ultra Lifelike,,English (United States),United States
+654,William,FALSE,Ultra Lifelike,,English (United States),United States
+668,Willie,TRUE,Premium,Middle Aged,English (United States),United States
+669,Vana,TRUE,Premium,Middle Aged,English (United States),United States
+670,Johan,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
+671,Igor,FALSE,Premium,Middle Aged,English (United States),United States
+672,Elon,FALSE,Premium,Middle Aged,English (United States),United States
+673,Denis,FALSE,Premium,Middle Aged,English (United States),United States
+674,Carla,TRUE,Premium,Middle Aged,English (United States),United States
+675,Bill,FALSE,Premium,Elder,English (United States),United States
+676,Alex,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
+3466,Rachel,TRUE,,,English (United States),United States
+3467,Domi,TRUE,,,English (United States),United States
+3468,Drew,FALSE,,,English (United States),United States
+3469,Clyde,FALSE,,,English (United States),United States
+3875,Norman (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+3876,Ian (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+3877,Mario (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+3878,Simon (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
+3879,Geralt (Male),FALSE,Ultra Lifelike,Middle Aged,English (United Kingdom),United Kingdom
+3880,Vanessa (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+3881,Fiona (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+3882,Ruby (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+3883,Viki (Female),TRUE,Ultra Lifelike,Youth,English (United States),United States
+3884,Ray (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
+8684,Fin,FALSE,,,English (United States),United States
+8685,Antoni,FALSE,,,English (United States),United States
+8686,Thomas,FALSE,,,English (United States),United States
+8687,Charlie,FALSE,,,English (United States),United States
+8688,Emily,TRUE,,,English (United States),United States
+8689,Elli,TRUE,,,English (United States),United States
+8690,Dorothy,TRUE,,,English (United States),United States
+8691,Charlotte,TRUE,,,English (United States),United States
+8692,Alice,TRUE,,,English (United States),United States
+11227,Adam,FALSE,,,English (United States),United States
+11228,Michael,FALSE,,,English (United States),United States
+11229,Nicole,FALSE,,,English (United States),United States
+11230,Eric,FALSE,,,English (United States),United States
+11231,Laura,TRUE,,,English (United States),United States
+11232,Lily,TRUE,,,English (United States),United States
+11233,Paul,FALSE,,,English (United States),United States
+11234,Chris,FALSE,,,English (United States),United States
+11235,River,TRUE,,,English (United States),United States
+11236,Freya,TRUE,,,English (United States),United States
+11242,Brian,FALSE,,,English (United States),United States
+11243,Jeremy,FALSE,,,English (United States),United States
+11244,Grace,FALSE,,,English (United States),United States
+11245,Aria,FALSE,,,English (United States),United States
+11246,Arnold,FALSE,,,English (United States),United States
+12196,Laura Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12197,Geralt Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12198,Grace Turbo,TRUE,Ultra Lifelike Turbo,,English (United States),United States
+12199,Mina Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12200,Norman Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12201,Viki Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
+12202,Vanessa Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12203,Zimmer Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12204,Fiona Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12205,Ian Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12206,Christine Turbo,TRUE,Ultra Lifelike Turbo,,English (United States),United States
+12207,Johnson Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12208,Ria Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12209,Tommy Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12210,Molly Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12211,Angie Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12212,Alice Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
+12213,Christiana Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
+12214,Mike Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12215,Simon Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12216,Bianca Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12217,Fred Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12218,Kiara Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12219,Ray Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12220,Tom Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12221,Anthony Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12222,Axel Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12223,Cameron Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12224,Jaxon Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12225,Julia Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12226,Landon Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12227,Mario Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12228,Angel Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12229,Ayden Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12230,Elena Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12231,Emilia Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12232,Erik Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12233,Goran Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
+12234,Jude Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12235,Natalie Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+12236,Parker Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
