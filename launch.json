@@ -1,0 +1,8 @@
+{
+    "name": "Python: dialoger.py",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/dialoger.py",
+    "args": ["dialog.json", "output.mp3"],
+    "console": "integratedTerminal"
+}

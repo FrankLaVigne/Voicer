@@ -1,0 +1,20 @@
+{
+    "dialog": [
+        {
+            "actorId": 1,
+            "text": "One day, after a private party at the Glory Jewelry Store, "
+        },
+        {
+            "actorId": 5,
+            "text": "The guests admired the exquisite collection of diamonds on display."
+        },
+        {
+            "actorId": 7,
+            "text": "The store was known for its rare gems."
+        },
+        {
+            "actorId": 3,
+            "text": "Indeed, it was a remarkable evening filled with surprises."
+        }
+    ]
+}
