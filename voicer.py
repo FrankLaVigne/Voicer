@@ -18,6 +18,9 @@ voice_api_endpoint = settings['voiceAPI']['endpoint']
 voice_api_key = settings['voiceAPI']['apikey']
 
 
+print("Voice API Endpoint:", voice_api_endpoint)
+print("Voice API Key:", voice_api_key)
+
 # Load the JSON file from the command-line argument
 json_file = sys.argv[1]
 output_filename = sys.argv[2] if len(sys.argv) > 2 else "combined_output.mp3"
