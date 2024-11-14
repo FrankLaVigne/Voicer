@@ -2,27 +2,27 @@
     "dialog": [
       {
         "actorId": 1,
-        "text": "Good day, listeners! You’re tuned in to another episode with your tech-savvy duo – I’m BAILeY, your British guide to all things skeptical in technology."
+        "text": "Good day, listeners! You're tuned in to another episode with your tech-savvy duo. I'm BAILeY, your British guide to all things skeptical in technology."
       },
       {
         "actorId": 6,
-        "text": "And I'm Jen, the ever-optimistic American sidekick here to balance out that cynicism with a dash of enthusiasm! Today’s topic is the importance of cybersecurity in AI – a biggie."
+        "text": "And I'm Jen, the ever-optimistic American sidekick here to balance out that cynicism with a dash of enthusiasm! Today's topic is the importance of cybersecurity in AI  a biggie."
       },
       {
         "actorId": 1,
-        "text": "Indeed, Jen. AI’s transformative power in so many industries also comes with a rather worrying vulnerability to cyber attacks. Take, for instance, how data is at the heart of AI. One breach, and all that sensitive information becomes vulnerable."
+        "text": "Indeed, Jen. AI's transformative power in so many industries also comes with a rather worrying vulnerability to cyber attacks. Take, for instance, how data is at the heart of AI. One breach, and all that sensitive information becomes vulnerable."
       },
       {
         "actorId": 6,
-        "text": "Right, and it’s not just the data, but also the integrity of the AI models themselves. Cyber threats can manipulate AI systems, causing anything from incorrect medical diagnoses to security risks in autonomous vehicles. Yikes!"
+        "text": "Right, and it's not just the data, but also the integrity of the AI models themselves. Cyber threats can manipulate AI systems, causing anything from incorrect medical diagnoses to security risks in autonomous vehicles. Yikes!"
       },
       {
         "actorId": 1,
-        "text": "And consider this: many of these AI models are becoming so complex that even the developers struggle to understand all the inner workings. This opacity – or what’s called the 'black box problem' – gives attackers a rather convenient cloak of mystery to exploit, doesn’t it?"
+        "text": "And consider this: many of these AI models are becoming so complex that even the developers struggle to understand all the inner workings. This opacity or what's called the 'black box problem'  gives attackers a rather convenient cloak of mystery to exploit, doesn't it?"
       },
       {
         "actorId": 6,
-        "text": "It does! And, to your point, this complexity makes defending AI systems especially challenging. Cybersecurity in traditional IT systems is already tough, but AI introduces new layers of risk. For instance, there’s a growing threat of 'data poisoning,' where attackers intentionally feed malicious data to AI during training to influence its behavior."
+        "text": "It does! And, to your point, this complexity makes defending AI systems especially challenging. Cybersecurity in traditional IT systems is already tough, but AI introduces new layers of risk. For instance, there's a growing threat of 'data poisoning,' where attackers intentionally feed malicious data to AI during training to influence its behavior."
       },
       {
         "actorId": 1,
@@ -30,31 +30,31 @@
       },
       {
         "actorId": 6,
-        "text": "Exactly. And let’s not forget about the rise of AI-driven cyber attacks themselves. Hackers are using AI to create more sophisticated attacks, such as deepfakes or phishing emails so realistic they can trick even the savviest professionals. It’s like an arms race, with both sides wielding AI as a weapon."
+        "text": "Exactly. And let's not forget about the rise of AI-driven cyber attacks themselves. Hackers are using AI to create more sophisticated attacks, such as deepfakes or phishing emails so realistic they can trick even the savviest professionals. It's like an arms race, with both sides wielding AI as a weapon."
       },
       {
         "actorId": 1,
-        "text": "Rather dystopian when you put it that way, but a fair point. So, what are the solutions? For a start, we need more investment in AI-specific security protocols. Traditional cybersecurity measures won’t always cut it here. We’re talking about techniques like adversarial training, where models are taught to recognize and defend against potential attacks."
+        "text": "Rather dystopian when you put it that way, but a fair point. So, what are the solutions? For a start, we need more investment in AI-specific security protocols. Traditional cybersecurity measures won't always cut it here. We're talking about techniques like adversarial training, where models are taught to recognize and defend against potential attacks."
       },
       {
         "actorId": 6,
-        "text": "And ongoing monitoring is crucial. AI models are like living organisms – they evolve and adapt based on new data. Cybersecurity measures need to evolve just as quickly to counter emerging threats. AI developers need to implement continuous monitoring to catch any anomalies before they become major issues."
+        "text": "And ongoing monitoring is crucial. AI models are like living organisms  they evolve and adapt based on new data. Cybersecurity measures need to evolve just as quickly to counter emerging threats. AI developers need to implement continuous monitoring to catch any anomalies before they become major issues."
       },
       {
         "actorId": 1,
-        "text": "Let’s not forget about regulation, either. Regulatory standards for AI security are still in their infancy, yet they’re absolutely essential. If we’re to trust these systems with critical decisions, from healthcare to national security, they must be governed by robust standards."
+        "text": "Let's not forget about regulation, either. Regulatory standards for AI security are still in their infancy, yet they're absolutely essential. If we're to trust these systems with critical decisions, from healthcare to national security, they must be governed by robust standards."
       },
       {
         "actorId": 6,
-        "text": "Yes! And transparency is part of that, too. Companies and researchers need to share information on vulnerabilities and collaborate on best practices. The more we know, the better we can defend. AI isn’t just a product; it’s a shared ecosystem, and so is its security."
+        "text": "Yes! And transparency is part of that, too. Companies and researchers need to share information on vulnerabilities and collaborate on best practices. The more we know, the better we can defend. AI isn't just a product; it's a shared ecosystem, and so is its security."
       },
       {
         "actorId": 1,
-        "text": "Well said, Jen. I’d add a final thought for our listeners: cybersecurity in AI isn’t just an IT issue – it’s a societal one. As we embrace AI, we need to understand that securing it is about protecting our way of life. The stakes are high, and the cost of failure is too great to ignore."
+        "text": "Well said, Jen. I'd add a final thought for our listeners: cybersecurity in AI isn't just an IT issue  it's a societal one. As we embrace AI, we need to understand that securing it is about protecting our way of life. The stakes are high, and the cost of failure is too great to ignore."
       },
       {
         "actorId": 6,
-        "text": "Absolutely, BAILeY. And we’re all in this together, from developers to end-users. So, here’s our takeaway for today: Stay informed, stay vigilant, and support responsible AI development. We’ll be back with more insights soon. Thanks for tuning in!"
+        "text": "Absolutely, BAILeY. And we're all in this together, from developers to end-users. So, here's our takeaway for today: Stay informed, stay vigilant, and support responsible AI development. We'll be back with more insights soon. Thanks for tuning in!"
       },
       {
         "actorId": 1,
