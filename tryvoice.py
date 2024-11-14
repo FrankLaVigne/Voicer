@@ -83,7 +83,7 @@ def main():
         actor = find_voice_actor(data, actor_id=args.id)
 
     # If actor is found, download or generate sample
-    if actor:
+    if actor: 
         if args.sampletext:
             # Generate custom audio sample
             filename = f"{actor['name'] if args.name else actor['actorId']}_sample.mp3"
