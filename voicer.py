@@ -1,85 +1,103 @@
+import argparse
 import requests
 import json
-import sys
 import os
-from pydub import AudioSegment
-
-# Check if at least a file argument is provided
-if len(sys.argv) < 2:
-    print("Usage: python dialoger.py <dialog.json> [output_filename]")
-    sys.exit(1)
+import sys
 
 # Load the settings JSON file
 with open('settings.json', 'r') as file:
     settings = json.load(file)
 
-# Access the values in the JSON structure
+# API settings from settings.json
 voice_api_endpoint = settings['voiceAPI']['endpoint']
 voice_api_key = settings['voiceAPI']['apikey']
 
+# Load voice data from the JSON file
+def load_voice_data():
+    with open("voices.json", "r") as file:
+        data = json.load(file)
+    return data["data"]
 
-print("Voice API Endpoint:", voice_api_endpoint)
-print("Voice API Key:", voice_api_key)
+# Find the voice actor by name or ID
+def find_voice_actor(data, name=None, actor_id=None):
+    for actor in data:
+        if name and actor["name"].lower() == name.lower():
+            return actor
+        elif actor_id and actor["actorId"] == actor_id:
+            return actor
+    return None
 
-# Load the JSON file from the command-line argument
-json_file = sys.argv[1]
-output_filename = sys.argv[2] if len(sys.argv) > 2 else "combined_output.mp3"
+# Download the audio sample or create new sample from API
+def download_sample(url, filename):
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(filename, "wb") as file:
+            file.write(response.content)
+        print(f"Downloaded sample as {filename}")
+    else:
+        print(f"Failed to download sample. Status code: {response.status_code}")
 
-with open(json_file, 'r') as f:
-    dialog_data = json.load(f)
-
-url = voice_api_endpoint
-headers = {
-    "APIKey": voice_api_key,  # Replace with your actual API key
-    "Content-Type": "application/json"
-}
-
-audio_segments = []
-
-# Iterate through each dialog entry in the JSON
-for i, entry in enumerate(dialog_data["dialog"]):
+# Generate a custom audio file with sample text using the API
+def generate_custom_sample(actor_id, sample_text, filename):
+    url = voice_api_endpoint
+    headers = {
+        "APIKey": voice_api_key,
+        "Content-Type": "application/json"
+    }
     data = {
         "data": [
             {
-                "actorId": entry["actorId"],
-                "text": entry["text"],
+                "actorId": actor_id,
+                "text": sample_text,
                 "features": [
-                    {
-                        "key": "speed",
-                        "value": "1.0"
-                    }
+                    {"key": "speed", "value": "1.0"}
                 ]
             }
         ]
     }
-
     response = requests.post(url, headers=headers, json=data)
-
     if response.status_code == 200:
-        filename = f"output_{i}.mp3"
         with open(filename, "wb") as f:
             f.write(response.content)
-        print(f"MP3 file saved as '{filename}'")
-
-        # Load the audio file into pydub
-        audio_segment = AudioSegment.from_mp3(filename)
-        audio_segments.append(audio_segment)
+        print(f"Custom sample saved as {filename}")
     else:
-        print(f"Failed with status code {response.status_code}")
-        print(response.text)
+        print(f"Failed to generate sample. Status code: {response.status_code}")
 
-# Concatenate all audio segments
-combined_audio = AudioSegment.empty()
-for segment in audio_segments:
-    combined_audio += segment
+# Main function
+def main():
+    parser = argparse.ArgumentParser(description="Download voice sample by actor name or ID")
+    parser.add_argument("--name", type=str, help="Name of the voice actor")
+    parser.add_argument("--id", type=int, help="ID of the voice actor")
+    parser.add_argument("--sampletext", type=str, help="Text to generate a custom sample with the voice")
 
-# Export the combined audio file
-combined_audio.export(output_filename, format="mp3")
-print(f"Combined MP3 file saved as '{output_filename}'")
+    args = parser.parse_args()
 
-# Delete intermediate files
-for i in range(len(audio_segments)):
-    filename = f"output_{i}.mp3"
-    if os.path.exists(filename):
-        os.remove(filename)
-        print(f"Deleted intermediate file '{filename}'")
+    # Load data
+    data = load_voice_data()
+
+    # Search for the actor
+    actor = None
+    if args.name:
+        actor = find_voice_actor(data, name=args.name)
+    elif args.id:
+        actor = find_voice_actor(data, actor_id=args.id)
+
+    # If actor is found, download or generate sample
+    if actor:
+        if args.sampletext:
+            # Generate custom audio sample
+            filename = f"{actor['name'] if args.name else actor['actorId']}_sample.mp3"
+            generate_custom_sample(actor["actorId"], args.sampletext, filename)
+        else:
+            # Download pre-defined sample
+            sample_url = actor.get("audioSampleLink")
+            if sample_url:
+                filename = f"{actor['name'] if args.name else actor['actorId']}.mp3"
+                download_sample(sample_url, filename)
+            else:
+                print("Audio sample link not found for this actor.")
+    else:
+        print("Voice actor not found.")
+
+if __name__ == "__main__":
+    main()
