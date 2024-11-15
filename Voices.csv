@@ -1,251 +1,251 @@
-actorId,name,isFeMale,categoryType,voiceAge,languageName,countryName
-1,Sonia,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-2,Libby,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-3,Ryan,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-4,Jenny,TRUE,,,English (United States),United States
-5,Guy,FALSE,Premium,Middle Aged,English (United States),United States
-6,Aria,TRUE,Premium,Middle Aged,English (United States),United States
-7,Natasha,TRUE,Premium,Middle Aged,English (Australia),Australia
-8,William,FALSE,Premium,Middle Aged,English (Australia),Australia
-9,Clara,TRUE,Premium,Middle Aged,English (Canada),Canada
-10,Liam,FALSE,Premium,Middle Aged,English (Canada),Canada
-11,Connor,FALSE,,,English (Ireland),Ireland
-12,Emily,TRUE,Premium,Youth,English (Ireland),Ireland
-13,Neerja,TRUE,Premium,Middle Aged,English (India),India
-14,Prabhat,FALSE,Premium,Elder,English (India),India
-55,Sam,FALSE,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR
-56,ya,TRUE,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR
-57,Mitchell,FALSE,Premium,Middle Aged,English (New Zealand),New Zealand
-58,Molly,TRUE,Premium,Middle Aged,English (New Zealand),New Zealand
-59,James,FALSE,Premium,youth,English (Philippines),Philippines
-60,Rosa,TRUE,Premium,youth,English (Philippines),Philippines
-61,Luna,TRUE,Premium,Middle Aged,English (Singapore),Singapore
-62,Wayne,FALSE,Premium,Middle Aged,English (Singapore),Singapore
-63,Jenny Multilingual,TRUE,,,English (United States),United States
-64,Amber,TRUE,Premium,youth,English (United States),United States
-65,Ana,TRUE,Premium,youth,English (United States),United States
-66,Ashley,TRUE,Premium,youth,English (United States),United States
-67,Brando,FALSE,Premium,Middle Aged,English (United States),United States
-68,Christopher,FALSE,Premium,Middle Aged,English (United States),United States
-69,Cora,TRUE,Premium,Middle Aged,English (United States),United States
-70,Elizabeth,TRUE,Premium,Middle Aged,English (United States),United States
-71,Eric,FALSE,Premium,Middle Aged,English (United States),United States
-72,Jacob,FALSE,Premium,Middle Aged,English (United States),United States
-73,Michelle,TRUE,Premium,Middle Aged,English (United States),United States
-74,Monica,TRUE,Premium,Middle Aged,English (United States),United States
-75,Leah,TRUE,Premium,Middle Aged,English (South Africa),South Africa
-76,Luke,FALSE,Premium,Middle Aged,English (South Africa),South Africa
-177,Abbi,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-178,Bella,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-179,Hollie,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-180,Olivia,TRUE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-181,Maisie,TRUE,Premium,Youth,English (United Kingdom),United Kingdom
-182,Alfie,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-183,Elliot,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
-184,Etha,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
-185,Noah,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-186,Oliver,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-187,Thomas,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-251,Asilia,TRUE,Premium,Middle Aged,English (Kenya),Kenya
-252,Chilemba,FALSE,Premium,Middle Aged,English (Kenya),Kenya
-253,Ezinne,TRUE,,,English (Nigeria),Nigeria
-254,Abeo,FALSE,Premium,Middle Aged,English (Nigeria),Nigeria
-255,Imani,TRUE,Premium,Middle Aged,English (Tanzania),Tanzania
-256,Elimu,FALSE,Premium,Middle Aged,English (Tanzania),Tanzania
-257,Sara,TRUE,,,English (United States),United States
-411,Laura,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-412,Geralt,FALSE,Ultra Lifelike,Middle Aged,English (United Kingdom),United Kingdom
-413,Grace,TRUE,,,English (United Kingdom),United Kingdom
-414,Mina,TRUE,Ultra Lifelike,Elder,English (United Kingdom),United Kingdom
-415,Norman,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-416,Viki,TRUE,Ultra Lifelike,Youth,English (United States),United States
-417,Vanessa,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-418,Zimmer,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-419,Fiona,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-420,Ian,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-422,Christine,TRUE,,,English (United States),United States
-423,Johnson,FALSE,Ultra Lifelike,Elder,English (United States),United States
-424,Ria,TRUE,Ultra Lifelike,Elder,English (United States),United States
-425,Tommy,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-426,Molly,TRUE,Premium,Middle Aged,English (United States),United States
-427,Angie,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-428,Alice,TRUE,Ultra Lifelike,Youth,English (United States),United States
-429,Christiana,TRUE,Ultra Lifelike,Youth,English (United States),United States
-430,Mike,FALSE,Ultra Lifelike,Elder,English (United States),United States
-431,Simon,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-432,Bianca,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-433,Fred,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-434,Kiara,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-435,Ray,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-436,Tom,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-437,Anthony,FALSE,Ultra Lifelike,Middle Aged,English (Canada),Canada
-438,Axel,TRUE,Ultra Lifelike,Elder,English (Philippines),Philippines
-439,Cameron,FALSE,Ultra Lifelike,Middle Aged,English (Kenya),Kenya
-440,Jaxon,FALSE,Ultra Lifelike,Middle Aged,English (Brazil),Brazil
-441,Julia,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-442,Landon,FALSE,Ultra Lifelike,Elder,English (United States),United States
-443,Mario,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-444,Angel,FALSE,Ultra Lifelike,Elder,English (United States),United States
-445,Ayden,FALSE,Ultra Lifelike,Middle Aged,English (Philippines),Philippines
-447,Elena,TRUE,Ultra Lifelike,Elder,English (United States),United States
-448,Emilia,TRUE,Ultra Lifelike,Middle Aged,English (United States),United Kingdom
-449,Erik,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-450,Goran,FALSE,Ultra Lifelike,Elder,English (Australia),Australia
-451,Jude,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-452,Natalie,TRUE,Ultra Lifelike,Middle Aged,English (Canada),Canada
-453,Parker,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-454,Ruby,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-563,Adam,FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-565,Mary,TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-590,Abram,FALSE,Ultra Lifelike,,English (United States),United States
-591,Alexander,FALSE,Ultra Lifelike,,English (United States),United States
-592,Anastasia,TRUE,Ultra Lifelike,,English (United States),United States
-593,Amado,FALSE,Ultra Lifelike,,English (United States),United States
-594,Anny,TRUE,Ultra Lifelike,,English (United States),United States
-595,Anthony,FALSE,Ultra Lifelike,,English (United States),United States
-596,April,TRUE,Ultra Lifelike,,English (United States),United States
-597,Ariana,TRUE,Ultra Lifelike,,English (United States),United States
-598,Bret,FALSE,Ultra Lifelike,,English (United States),United States
-599,Audrey,TRUE,Ultra Lifelike,,English (United States),United States
-600,Aubrey,TRUE,Ultra Lifelike,,English (United States),United States
-601,Bruce,FALSE,Ultra Lifelike,,English (United States),United States
-602,Bryan,FALSE,Ultra Lifelike,,English (United States),United States
-603,Carter,FALSE,Ultra Lifelike,,English (United States),United States
-604,Charles,FALSE,Ultra Lifelike,,English (United States),United States
-605,Charlotte,TRUE,Ultra Lifelike,,English (United States),United States
-606,Chuck,FALSE,Ultra Lifelike,,English (United States),United States
-607,Clark,FALSE,Ultra Lifelike,,English (United States),United States
-608,Clifton,FALSE,Ultra Lifelike,,English (United States),United States
-609,Cooper,FALSE,Ultra Lifelike,,English (United States),United States
-610,Daisy,TRUE,Ultra Lifelike,,English (United States),United States
-611,Dane,FALSE,Ultra Lifelike,,English (United States),United States
-612,Daniel,FALSE,Ultra Lifelike,,English (United States),United States
-613,Darrell,FALSE,Ultra Lifelike,,English (United States),United States
-615,Dick,FALSE,Ultra Lifelike,,English (United States),United States
-616,Domenic,FALSE,Ultra Lifelike,,English (United States),United States
-617,Dudley,FALSE,Ultra Lifelike,,English (United States),United States
-618,Dylan,FALSE,Ultra Lifelike,,English (United States),United States
-619,Eleanor,TRUE,Ultra Lifelike,,English (United States),United States
-620,Ellie,TRUE,Ultra Lifelike,,English (United States),United States
-621,Evelyn,TRUE,Ultra Lifelike,,English (United States),United States
-622,Fletcher,FALSE,Ultra Lifelike,,English (United States),United States
-623,Flynn,FALSE,Ultra Lifelike,,English (United States),United States
-624,Frederick,FALSE,Ultra Lifelike,,English (United States),United States
-625,Greg,FALSE,Ultra Lifelike,,English (United States),United States
-626,Harper,TRUE,Ultra Lifelike,,English (United States),United States
-627,Harrison,FALSE,Ultra Lifelike,,English (United States),United States
-628,Hudson,FALSE,Ultra Lifelike,,English (United States),United States
-629,Hunter,FALSE,Ultra Lifelike,,English (United States),United States
-630,Jarrett,FALSE,Ultra Lifelike,,English (United States),United States
-631,Jordan,FALSE,Ultra Lifelike,,English (United States),United States
-632,Judson,FALSE,Ultra Lifelike,,English (United States),United States
-633,Julian,FALSE,Ultra Lifelike,,English (United States),United States
-634,Lance,FALSE,Ultra Lifelike,,English (United States),United States
-635,Larry,FALSE,Ultra Lifelike,,English (United States),United States
-636,Logan,FALSE,Ultra Lifelike,,English (United States),United States
-637,Lottie,TRUE,Ultra Lifelike,,English (United States),United States
-638,Madison,TRUE,Ultra Lifelike,,English (United States),United States
-639,Micah,TRUE,Ultra Lifelike,,English (United States),United States
-640,Nolan,FALSE,Ultra Lifelike,,English (United States),United States
-641,Nova,TRUE,Ultra Lifelike,,English (United States),United States
-642,Oliver,FALSE,Ultra Lifelike,,English (United States),United States
-643,Oscar,FALSE,Ultra Lifelike,,English (United States),United States
-644,Pedro,FALSE,Ultra Lifelike,,English (United States),United States
-645,Phoebe,TRUE,Ultra Lifelike,,English (United States),United States
-646,Randall,FALSE,Ultra Lifelike,,English (United States),United States
-647,Reynaldo,FALSE,Ultra Lifelike,,English (United States),United States
-648,Rodrick,FALSE,Ultra Lifelike,,English (United States),United States
-649,Samuel,FALSE,Ultra Lifelike,,English (United States),United States
-650,Susan,TRUE,Ultra Lifelike,,English (United States),United States
-651,Theodore,FALSE,Ultra Lifelike,,English (United States),United States
-652,Wilbur,FALSE,Ultra Lifelike,,English (United States),United States
-653,Wilfred,FALSE,Ultra Lifelike,,English (United States),United States
-654,William,FALSE,Ultra Lifelike,,English (United States),United States
-668,Willie,TRUE,Premium,Middle Aged,English (United States),United States
-669,Vana,TRUE,Premium,Middle Aged,English (United States),United States
-670,Johan,FALSE,Premium,Elder,English (United Kingdom),United Kingdom
-671,Igor,FALSE,Premium,Middle Aged,English (United States),United States
-672,Elon,FALSE,Premium,Middle Aged,English (United States),United States
-673,Denis,FALSE,Premium,Middle Aged,English (United States),United States
-674,Carla,TRUE,Premium,Middle Aged,English (United States),United States
-675,Bill,FALSE,Premium,Elder,English (United States),United States
-676,Alex,FALSE,Premium,Middle Aged,English (United Kingdom),United Kingdom
-3466,Rachel,TRUE,,,English (United States),United States
-3467,Domi,TRUE,,,English (United States),United States
-3468,Drew,FALSE,,,English (United States),United States
-3469,Clyde,FALSE,,,English (United States),United States
-3875,Norman (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-3876,Ian (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-3877,Mario (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-3878,Simon (Male),FALSE,Ultra Lifelike,Middle Aged,English (United States),United States
-3879,Geralt (Male),FALSE,Ultra Lifelike,Middle Aged,English (United Kingdom),United Kingdom
-3880,Vanessa (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-3881,Fiona (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-3882,Ruby (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-3883,Viki (Female),TRUE,Ultra Lifelike,Youth,English (United States),United States
-3884,Ray (Female),TRUE,Ultra Lifelike,Middle Aged,English (United States),United States
-8684,Fin,FALSE,,,English (United States),United States
-8685,Antoni,FALSE,,,English (United States),United States
-8686,Thomas,FALSE,,,English (United States),United States
-8687,Charlie,FALSE,,,English (United States),United States
-8688,Emily,TRUE,,,English (United States),United States
-8689,Elli,TRUE,,,English (United States),United States
-8690,Dorothy,TRUE,,,English (United States),United States
-8691,Charlotte,TRUE,,,English (United States),United States
-8692,Alice,TRUE,,,English (United States),United States
-11227,Adam,FALSE,,,English (United States),United States
-11228,Michael,FALSE,,,English (United States),United States
-11229,Nicole,FALSE,,,English (United States),United States
-11230,Eric,FALSE,,,English (United States),United States
-11231,Laura,TRUE,,,English (United States),United States
-11232,Lily,TRUE,,,English (United States),United States
-11233,Paul,FALSE,,,English (United States),United States
-11234,Chris,FALSE,,,English (United States),United States
-11235,River,TRUE,,,English (United States),United States
-11236,Freya,TRUE,,,English (United States),United States
-11242,Brian,FALSE,,,English (United States),United States
-11243,Jeremy,FALSE,,,English (United States),United States
-11244,Grace,FALSE,,,English (United States),United States
-11245,Aria,FALSE,,,English (United States),United States
-11246,Arnold,FALSE,,,English (United States),United States
-12196,Laura Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12197,Geralt Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12198,Grace Turbo,TRUE,Ultra Lifelike Turbo,,English (United States),United States
-12199,Mina Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12200,Norman Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12201,Viki Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
-12202,Vanessa Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12203,Zimmer Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12204,Fiona Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12205,Ian Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12206,Christine Turbo,TRUE,Ultra Lifelike Turbo,,English (United States),United States
-12207,Johnson Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12208,Ria Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12209,Tommy Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12210,Molly Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12211,Angie Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12212,Alice Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
-12213,Christiana Turbo,TRUE,Ultra Lifelike Turbo,Youth,English (United States),United States
-12214,Mike Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12215,Simon Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12216,Bianca Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12217,Fred Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12218,Kiara Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12219,Ray Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12220,Tom Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12221,Anthony Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12222,Axel Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12223,Cameron Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12224,Jaxon Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12225,Julia Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12226,Landon Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12227,Mario Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12228,Angel Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12229,Ayden Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12230,Elena Turbo,TRUE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12231,Emilia Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12232,Erik Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12233,Goran Turbo,FALSE,Ultra Lifelike Turbo,Elder,English (United States),United States
-12234,Jude Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12235,Natalie Turbo,TRUE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
-12236,Parker Turbo,FALSE,Ultra Lifelike Turbo,Middle Aged,English (United States),United States
+actorId,name,isFemale,categoryType,voiceAge,languageName,countryName,audioSampleLink
+1,Sonia,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5a031e3a-0ac2-4110-a441-9b35184cda41.mp3
+2,Libby,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dc932e1b-0591-483f-85dd-253e84428da7.mp3
+3,Ryan,False,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/fe31c794-cac6-45e7-b5a3-df9ce993d165.mp3
+4,Jenny,True,,,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0c69c677-ca5b-4047-b574-71976eeafb80.mp3
+5,Guy,False,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ad185cd6-93f7-48de-a79a-d2c1ba881ff5.mp3
+6,Aria,True,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/45d005a3-8596-49ab-8a76-e8ff906d359b.mp3
+7,Natasha,True,Premium,Middle Aged,English (Australia),Australia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4a30a2bb-04dd-41a7-8beb-657892772456.mp3
+8,William,False,Premium,Middle Aged,English (Australia),Australia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8e09030f-1c27-4acd-8651-d0ae3ee8055e.mp3
+9,Clara,True,Premium,Middle Aged,English (Canada),Canada,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dd9d26cd-95e3-42d9-aaa4-189a5c2492be.mp3
+10,Liam,False,Premium,Middle Aged,English (Canada),Canada,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/3a0bd6a0-feec-4fba-ad40-3854019c3620.mp3
+11,Connor,False,,,English (Ireland),Ireland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4ffefda0-b4d2-411e-9c05-f15bafaa60b0.mp3
+12,Emily,True,Premium,Youth,English (Ireland),Ireland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/36383820-6395-4ad9-9f97-d2a6e6d867b6.mp3
+13,Neerja,True,Premium,Middle Aged,English (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/35009879-cbad-43b7-8686-184ce91fb20a.mp3
+14,Prabhat,False,Premium,Elder,English (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8a365f98-e90b-49ae-aa10-186c249b632f.mp3
+15,Antonio,False,Premium,Middle Aged,Portuguese (Brazil),Brazil,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a55e175e-7641-4fb6-a018-7d0a725e87fa.mp3
+16,Francisca,True,Premium,Elder,Portuguese (Brazil),Brazil,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/1cda78ba-61a7-41fc-af6e-0af3e614bb83.mp3
+17,Dalia,True,Premium,Middle Aged,Spanish (Mexico),Mexico,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cce84806-0c7a-441d-8639-1342354caa7d.mp3
+18,Jorge,False,Premium,Middle Aged,Spanish (Mexico),Mexico,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c48bfe5a-4dee-452a-895a-8493a7baab6f.mp3
+19,Colette,True,Premium,elder,Dutch (Netherlands),Netherlands,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/af935493-7eaa-44f2-abdc-e9ec8338e493.mp3
+20,HiuMaa,True,Premium,youth,"Chinese (Cantonese, Traditional)","Cantonese, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e9af6b05-8d3c-4af7-8ee3-1b22c2b948bd.mp3
+21,Gabrijela,True,Premium,elder,Croatian (Croatia),Croatia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/27e7161e-3378-4efd-acf3-d3ce5d82d5af.mp3
+22,Pallavi,True,Premium,youth,Tamil (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b3cd06a6-e7f9-434b-bb97-618281d3f05a.mp3
+23,Moha,False,Premium,Middle Aged,Telugu (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e66abf4f-1db3-40a4-919d-0e839e4724f1.mp3
+24,Katja,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/841cbb07-b5c8-4fcd-9b80-a50bf0301691.mp3
+25,Sofie,True,Premium,Middle Aged,Swedish (Sweden),Sweden,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/50791195-ec49-46a3-84cc-d996b8530459.mp3
+26,Premwadee,True,Premium,Middle Aged,Thai (Thailand),Thailand,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7dff7239-0069-493a-974e-2e87ad41e96f.mp3
+27,Achara,True,Premium,Middle Aged,Thai (Thailand),Thailand,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/192a83ee-8305-474c-9292-231decf04bc0.mp3
+28,Niwat,True,Premium,youth,Thai (Thailand),Thailand,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b4c0a87c-2fad-4a10-bc82-769290766b92.mp3
+29,Avri,False,Premium,Middle Aged,Hebrew (Israel),Israel,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e29cd6cd-117b-4638-a218-844a0da1bddc.mp3
+30,Hila,True,Premium,Middle Aged,Hebrew (Israel),Israel,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/40c2b422-a058-4d58-8f02-a0f157a1b9c7.mp3
+31,Osma,False,Premium,Middle Aged,Malay (Malaysia),Malaysia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b682b279-5631-4cda-a61f-97308d1ac61f.mp3
+32,Yasmi,True,Premium,Middle Aged,Malay (Malaysia),Malaysia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/92da2591-02ad-4c42-b30b-1dd762f496f6.mp3
+33,Salma,True,Premium,Middle Aged,Arabic (Egypt),Egypt,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ff978db7-c23f-44ab-bc73-a1a1a4f09444.mp3
+34,Shakir,False,Premium,Middle Aged,Arabic (Egypt),Egypt,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/12e7c5be-f3c6-4914-a4b7-f112fbb35190.mp3
+35,Hamed,False,,,Arabic (Saudi Arabia),Saudi Arabia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/da4a6984-bf59-40c2-89e6-905a0bc3cf3b.mp3
+36,Zariyah,True,Premium,Middle Aged,Arabic (Saudi Arabia),Saudi Arabia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9d977b68-8ae2-47d1-a3b8-5091841f5706.mp3
+37,Borislav,False,Premium,youth,Bulgarian (Bulgaria),Bulgaria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/40b3f567-d56e-42d0-a593-64041765214d.mp3
+38,Kalina,True,Premium,Middle Aged,Bulgarian (Bulgaria),Bulgaria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c5dc642f-bd8d-42f9-9c66-01a5a40ba599.mp3
+39,Joana,True,Premium,youth,Catalan (Spain),Spain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ddd0c413-d685-4590-9e38-5a7e73b5b1eb.mp3
+40,Alba  ,True,Premium,elder,Catalan (Spain),Spain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/758bf63f-ad9a-43da-8c9a-a7f10130de64.mp3
+41,Enric,False,Premium,elder,Catalan (Spain),Spain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/053ae647-e611-49a7-8717-8f5b44a071f7.mp3
+42,Antoni,False,Premium,Middle Aged,Czech (Czechia),Czechia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/576128e7-f6c0-4149-9c1f-dc523d93cd9e.mp3
+43,Vlasta,True,Premium,elder,Czech (Czechia),Czechia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dc0c0362-e425-4645-b50e-1ae7ecca5208.mp3
+44,Aled,False,Premium,Middle Aged,Welsh (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f8e4e3f1-8168-4440-aabc-e3e36355349d.mp3
+45,Nia,True,Premium,elder,Welsh (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/053ad6d9-cb49-4af0-9092-2a89b7f15252.mp3
+46,Christel,True,Premium,Middle Aged,Danish (Denmark),Denmark,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/3e81cd0b-cd9c-4ce3-9c64-01c6bbfa9205.mp3
+47,Jeppe,False,Premium,Middle Aged,Danish (Denmark),Denmark,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a61483d7-e859-4f95-aff3-63fa3a54adce.mp3
+48,Ingrid,True,,,German (Austria),Austria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b77aedb1-a15b-48e0-8cc1-2b06af6c2d58.mp3
+49,Jonas,False,Premium,Middle Aged,German (Austria),Austria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/76a952e4-5756-4b80-9cef-93e270687fb6.mp3
+50,Ja,False,Premium,youth,German (Switzerland),Switzerland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2766b19c-d225-486d-8cd0-abd5f76cc90a.mp3
+51,Leni,True,Premium,youth,German (Switzerland),Switzerland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e0c78fbf-aa88-4a71-8749-7d4d9900a8f9.mp3
+52,Conrad,False,Premium,youth,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f2aebae8-3eff-4378-b0ca-b8871ff6b623.mp3
+53,Athina,True,Premium,Middle Aged,Greek (Greece),Greece,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/3395d35d-39cf-471e-bd4a-d4df99dfd12a.mp3
+54,Nestoras,False,Premium,Middle Aged,Greek (Greece),Greece,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5bcc87f5-a1c0-44d0-8956-aa8105563493.mp3
+55,Sam,False,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/edfc0b95-fa8c-4ac0-ac12-df36d7c28b7f.mp3
+56,ya,True,Premium,Middle Aged,English (Hong Kong SAR),Hong Kong SAR,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c69849c8-58ab-4ec7-b5b9-af0e6058f814.mp3
+57,Mitchell,False,Premium,Middle Aged,English (New Zealand),New Zealand,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/20e7b591-6401-46c2-87b1-efb49a2523fe.mp3
+58,Molly,True,Premium,Middle Aged,English (New Zealand),New Zealand,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/acdb18a0-79cb-4930-b1f7-67b2b4ab0bd0.mp3
+59,James,False,Premium,youth,English (Philippines),Philippines,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e1aa07ce-5d5b-41c4-b038-ee4a52b6b154.mp3
+60,Rosa,True,Premium,youth,English (Philippines),Philippines,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c366e2c4-5ffa-443a-9e7b-33e398fc3a52.mp3
+61,Luna,True,Premium,Middle Aged,English (Singapore),Singapore,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0e1dfa9d-fbcb-45ac-aac7-e564b9534469.mp3
+62,Wayne,False,Premium,Middle Aged,English (Singapore),Singapore,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b1a2ad40-7042-44cc-8f6a-9ee167c41503.mp3
+63,Jenny Multilingual,True,,,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cfda5fcc-4ac6-44b3-bd35-e30e36b8378a.mp3
+64,Amber,True,Premium,youth,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c7962d7d-f964-4bb8-99c7-5b0b6d15440c.mp3
+65,Ana,True,Premium,youth,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2864954d-8a7c-4c5e-a809-aade26d3199d.mp3
+66,Ashley,True,Premium,youth,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/41dc86f5-bae9-4979-99d3-b12c5755f723.mp3
+67,Brando,False,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ce39994e-2953-4870-ae7e-0acd52d278f7.mp3
+68,Christopher,False,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/957716dd-39ff-473c-a3a2-9961bbc44e49.mp3
+69,Cora,True,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2e825a56-7db9-4c65-b47b-f390e42e5624.mp3
+70,Elizabeth,True,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7c656ad2-0235-4643-855e-3aeccd8c409d.mp3
+71,Eric,False,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/92be9802-6d4f-40fa-8357-81b669615bf6.mp3
+72,Jacob,False,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/30bb6ba1-821f-4129-9d58-2d2fce746518.mp3
+73,Michelle,True,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8e7e6965-9bcd-4665-bcb8-4a7e274f8b49.mp3
+74,Monica,True,Premium,Middle Aged,English (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f806b1cd-96aa-4988-992e-6476c280147d.mp3
+75,Leah,True,Premium,Middle Aged,English (South Africa),South Africa,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/23a1ca64-839a-441c-a5a9-df9cae6f39c7.mp3
+76,Luke,False,Premium,Middle Aged,English (South Africa),South Africa,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/816cd4b2-ec66-420f-9d1e-e306cbcc9aa9.mp3
+77,Elena ,True,Premium,Middle Aged,Spanish (Argentina),Argentina,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5498297c-705e-49c0-aa61-92daa691527c.mp3
+78,Tomas,False,Premium,Middle Aged,Spanish (Argentina),Argentina,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/6e907f23-f218-498a-b4f4-1e8726787106.mp3
+79,Gonzalo,False,Premium,Middle Aged,Spanish (Colombia),Colombia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7d9dce09-37df-4022-bad4-bb6f9cd4d629.mp3
+80,Salome,True,Premium,Middle Aged,Spanish (Colombia),Colombia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/51a1ce0b-e7f7-48fb-ab89-244944eb8357.mp3
+81,Alvaro,False,Premium,Middle Aged,Spanish (Spain),Spain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0c8c6347-2c20-4f13-b8bb-be597c67d9c6.mp3
+82,Elvira,True,Premium,Middle Aged,Spanish (Spain),Spain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b30fcd90-abb5-42e2-a7d7-4474b9936fc0.mp3
+83,Alonso,False,Premium,Middle Aged,Spanish (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/06822f65-035b-4d1f-b194-fe3257029cd0.mp3
+84,Paloma,True,Premium,Middle Aged,Spanish (United States),United States,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/195b5537-ce08-4e8b-bcc5-4f7852e0eb74.mp3
+85,Anu,True,Premium,Middle Aged,Estonian (Estonia),Estonia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b588be19-332a-42bc-ae35-0160a5068c41.mp3
+86,Kert,False,Premium,Middle Aged,Estonian (Estonia),Estonia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/883ede54-d275-4b9e-b298-08525e8a01cc.mp3
+87,Selma,True,Premium,Middle Aged,Finnish (Finland),Finland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9e328a86-4ce4-4f78-9e0e-f0123eb2fe92.mp3
+88,Harri,False,Premium,Middle Aged,Finnish (Finland),Finland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/316e6294-5df0-4e70-a05d-f3486589f1c3.mp3
+89,Noora,True,Premium,Middle Aged,Finnish (Finland),Finland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/52485156-ddc4-4845-869d-9f94e2a7e529.mp3
+90,Charline,True,Premium,Middle Aged,French (Belgium),Belgium,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c0edcb7f-645a-4c27-b8ad-f071594622fc.mp3
+91,Gerard,False,,,French (Belgium),Belgium,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/77d20096-0fb7-490d-9e1c-478e970773cf.mp3
+92,Sylvie,True,Premium,Middle Aged,French (Canada),Canada,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dd8cf388-7eb7-4257-b42f-63ea962f2bcb.mp3
+93,Antoine,False,Premium,Middle Aged,French (Canada),Canada,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2743c1e6-1ee1-409c-87aa-1e802eb2d603.mp3
+94,Jean ,False,Premium,Middle Aged,French (Canada),Canada,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c10b0d87-e4b1-4905-8586-5dd8e5e33935.mp3
+95,Ariane,True,Premium,Middle Aged,French (Switzerland),Switzerland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/d5653e58-0829-482f-b7cd-4d035067f4a1.mp3
+96,Fabrice,False,Premium,Middle Aged,French (Switzerland),Switzerland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/452dd87d-550c-4556-9c25-d0c4d2358806.mp3
+97,Denise,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5563537f-ec87-49ec-a136-50ab7d6dc253.mp3
+98,Henri,False,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/665f5aea-7639-4da3-bf49-89face1cb242.mp3
+99,Colm,False,Premium,Middle Aged,Irish (Ireland),Ireland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/82216ca7-4068-463d-a308-3162d31fd36c.mp3
+100,Orla,True,Premium,Middle Aged,Irish (Ireland),Ireland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a4fb2773-9b58-47eb-84b5-41e1999d6a09.mp3
+101,Dhwani,True,Premium,Middle Aged,Gujarati (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/09121fc9-f1b7-4de7-90f4-c16f82e72045.mp3
+102,NiRanja,False,Premium,Middle Aged,Gujarati (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7803dc97-2ae3-4e54-a60b-7c842cb50b4d.mp3
+103,Madhur,False,Premium,Middle Aged,Hindi (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0b8f602e-2f26-4714-88c2-1d321cf43a7b.mp3
+104,Swara,True,Premium,Middle Aged,Hindi (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/56ed63d1-6df7-4c50-be36-68e430655239.mp3
+105,Srecko,False,Premium,Middle Aged,Croatian (Croatia),Croatia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7fc6dc5a-3f18-47fc-ac04-cf89a01060ce.mp3
+106,Noemi,True,Premium,Middle Aged,Hungarian (Hungary),Hungary,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e52a408f-37e1-4a7f-9037-94f6bd5d70a2.mp3
+107,Tamas,False,Premium,Middle Aged,Hungarian (Hungary),Hungary,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cb98701d-61a4-4435-abc5-5a8681c6675a.mp3
+108,Ardi,False,Premium,Middle Aged,Indonesian (Indonesia),Indonesia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a64f7513-a2f0-4feb-8ad1-82a3ec8fb912.mp3
+109,Gadis,True,Premium,Middle Aged,Indonesian (Indonesia),Indonesia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e52ffbd9-ad80-429e-92b1-9cd424efe049.mp3
+110,Isabella,True,Premium,Middle Aged,Italian (Italy),Italy,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e9e3a629-aefe-4cf0-9edf-0056892c92da.mp3
+111,Diego,False,Premium,Middle Aged,Italian (Italy),Italy,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/554733e1-a2e0-420c-bdb2-533905c78646.mp3
+112,Elsa,True,Premium,Middle Aged,Italian (Italy),Italy,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b15d3353-62a3-44cc-b0f4-d57d6a6b2007.mp3
+113,Nanami,True,Premium,Middle Aged,Japanese (Japan),Japan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/20a12e24-1217-46a5-bba5-a8ec9e550b43.mp3
+114,Keita,False,,,Japanese (Japan),Japan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2fb541ee-649e-4a7d-a3df-9b271c32ec19.mp3
+115,Sun-hi,True,Premium,Middle Aged,Korean (Korea),Korea,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/33198961-7676-4bc6-b1a2-60d24fa7b9b6.mp3
+116,Injoo,False,Premium,Middle Aged,Korean (Korea),Korea,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c6b5c72d-54c3-44f9-bae3-f7953cb5113e.mp3
+117,Leonas,False,Premium,Middle Aged,Lithuanian (Lithuania),Lithuania,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0bdf04e8-30e3-4fd5-9d35-64ebc2cf5094.mp3
+118,Ona,True,Premium,Middle Aged,Lithuanian (Lithuania),Lithuania,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/83ac9328-f71b-48bb-b549-4ddcc2f5aed0.mp3
+119,Everita,True,,,Latvian (Latvia),Latvia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/0911b238-d727-428e-88b3-97bed494c349.mp3
+120,Nils,False,Premium,Middle Aged,Latvian (Latvia),Latvia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b2321862-ee30-451c-928f-bed273346801.mp3
+121,Aarohi,True,Premium,Middle Aged,Marathi (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Aarohi.mp3
+122,Manohar,False,Premium,Middle Aged,Marathi (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Manohar.mp3
+123,Grace,True,Premium,Middle Aged,Maltese (Malta),Malta,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Grace.mp3
+124,Joseph,False,Premium,Middle Aged,Maltese (Malta),Malta,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Joseph.mp3
+125,Pernille,True,Premium,Middle Aged,Norwegian BokmÃ¥l (Norway),Norway,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/025c8873-861c-42c9-85b4-7842964e2d05.mp3
+126,Fin,False,Premium,Middle Aged,Norwegian BokmÃ¥l (Norway),Norway,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f84ad2f6-ec42-4f15-b466-853f9876a77f.mp3
+127,Iseli,True,Premium,Middle Aged,Norwegian BokmÃ¥l (Norway),Norway,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/1264970f-372a-4767-b390-fb0ba7d63247.mp3
+128,Arnaud,False,Premium,Middle Aged,Dutch (Belgium),Belgium,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9c23c35b-1de2-4b66-afbf-99282b8bd121.mp3
+129,Dena,True,Premium,Middle Aged,Dutch (Belgium),Belgium,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e5022d67-4999-41fd-ab82-c5cec16e9bc2.mp3
+130,Fenna,True,Premium,Middle Aged,Dutch (Netherlands),Netherlands,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f2446339-a5eb-4646-afb5-2dfbd58be0e2.mp3
+131,Maarte,False,,,Dutch (Netherlands),Netherlands,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dd79f6dd-ae76-46b9-81ef-311bf6333ec1.mp3
+132,Agnieszka,True,Premium,Middle Aged,Polish (Poland),Poland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/87353267-7411-41bb-9022-eb7a64b5c26b.mp3
+133,Marek,False,Premium,Middle Aged,Polish (Poland),Poland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5f3ab693-b760-4130-9a6b-bbfeeb78fd96.mp3
+134,Zofia,True,Premium,Middle Aged,Polish (Poland),Poland,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b644530b-aa4b-45db-accf-a9a3887d02a5.mp3
+135,Duarte,False,Premium,Middle Aged,Portuguese (Portugal),Portugal,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f39a584d-841b-4ad6-a5e3-a82d375c9103.mp3
+136,Fernanda,True,Premium,Middle Aged,Portuguese (Portugal),Portugal,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/61400058-2e13-40c1-ba76-834e9ca36611.mp3
+137,Raquel,True,Premium,Middle Aged,Portuguese (Portugal),Portugal,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/efebcb9b-d78e-40d2-9f04-89517285153c.mp3
+138,Alina,True,Premium,Middle Aged,Romanian (Romania),Romania,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/14bea674-4aed-45a9-a600-9b7f932ac884.mp3
+139,Emil,False,Premium,Middle Aged,Romanian (Romania),Romania,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a51ba6ef-8c47-474e-bc58-609d301a5a49.mp3
+140,Svetlana,True,Premium,Middle Aged,Russian (Russia),Russia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Svetlana.mp3
+141,Dariya,True,,,Russian (Russia),Russia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/fee438f9-e5ff-4d43-812f-0ea52667ec0d.mp3
+142,Dmitry,False,,,Russian (Russia),Russia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/371e2fd6-783d-474f-a003-80aef97230e9.mp3
+143,Lukas,False,Premium,Middle Aged,Slovak (Slovakia),Slovakia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8643d09d-2e70-4f5c-b3d0-0c1dbd2b63bc.mp3
+144,Viktoria,True,Premium,Middle Aged,Slovak (Slovakia),Slovakia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/fffa8251-cb07-47e4-bbf1-8f310a805546.mp3
+145,Petra,True,,,Slovenian (Slovenia),Slovenia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/91e4698d-b47b-435d-8adb-83c375683058.mp3
+146,Rok,False,,,Slovenian (Slovenia),Slovenia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/06275c15-d445-4ccb-b980-7b0034ba0bb7.mp3
+147,Hillevi,True,Premium,Middle Aged,Swedish (Sweden),Sweden,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8a8539a6-379e-4b59-b9a2-d3847810272f.mp3
+148,Mattias,False,Premium,Middle Aged,Swedish (Sweden),Sweden,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f09c1394-9b73-4d43-9926-617ee7da3889.mp3
+149,Rafiki,False,Premium,Middle Aged,Swahili (Kenya),Kenya,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Rafiki.mp3
+150,Zuri,True,Premium,Middle Aged,Swahili (Kenya),Kenya,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Zuri.mp3
+151,Valluvar,False,Premium,Middle Aged,Tamil (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Valluvar.mp3
+152,Shruti,True,Premium,Middle Aged,Telugu (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Shruti.mp3
+153,Ahmet,False,Premium,Middle Aged,Turkish (Turkey),Turkey,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9aa27268-f7e4-438c-983c-5c91d45d689d.mp3
+154,Emel,True,Premium,Middle Aged,Turkish (Turkey),Turkey,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/35a19c54-f72e-40bd-9109-7f647e5ab493.mp3
+155,Ostap,False,Premium,Middle Aged,Ukrainian (Ukraine),Ukraine,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ba519bed-563c-48c0-91b4-15b2070f0f22.mp3
+156,Polina,True,Premium,Middle Aged,Ukrainian (Ukraine),Ukraine,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ef070e83-f7ff-4c30-9d53-898ad0324a5d.mp3
+157,Asad,False,Premium,Middle Aged,Urdu (Pakistan),Pakistan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Asad.mp3
+158,Uzma,True,Premium,Middle Aged,Urdu (Pakistan),Pakistan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/Uzma.mp3
+159,HoaiMy,True,Premium,Middle Aged,Vietnamese (Vietnam),Vietnam,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/HoaiMy.mp3
+160,NamMinh,False,,,Vietnamese (Vietnam),Vietnam,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Missing%20preview%20voice/NamMinh.mp3
+161,Xiaoxiao ,True,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/fdcb9bc1-9a83-4dc8-9a92-50da6493248b.mp3
+162,Yunyang ,False,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/85669180-da7d-4dc2-8535-958237a66947.mp3
+163,Xiaoha,True,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/fbc19e83-b75c-41ea-9424-8756de4055c1.mp3
+164,Xiaomo,True,,,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8a4c732e-3144-4e05-8b53-9fcbf6db46d5.mp3
+165,Xiaorui,True,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a0c3ed40-b373-425b-9990-628ab9e66083.mp3
+166,Xiaoxua,True,,,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/81ab1843-f9f2-4505-98b6-45d778c34e1d.mp3
+167,Xiaoyou,True,Premium,Youth,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ca091f30-287d-4dad-8d52-8014607078ec.mp3
+168,Yunxi  ,False,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c3d55971-61d6-463a-b544-1c5d1f3ce06e.mp3
+169,Yunye  ,False,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ef73e370-7ce9-49f1-931a-70429bb83673.mp3
+170,HiuGaai ,True,Premium,Middle Aged,"Chinese (Cantonese, Traditional)","Cantonese, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/969d27c4-9ae7-42da-bd01-63e82ecdfff5.mp3
+171,WanLung  ,False,Premium,Middle Aged,"Chinese (Cantonese, Traditional)","Cantonese, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/919d0bed-851f-4eff-a51f-4fe59da955a4.mp3
+172,HsiaoChe,True,,,"Chinese (Taiwanese Mandarin, Traditional)","Taiwanese Mandarin, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/d26c40a7-e798-480f-b7b6-77ff8507665a.mp3
+173,HsiaoYu,True,,,"Chinese (Taiwanese Mandarin, Traditional)","Taiwanese Mandarin, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a30994d9-4536-4f73-b2a9-d9e552c65cea.mp3
+174,Yunjhe ,False,Premium,Middle Aged,"Chinese (Taiwanese Mandarin, Traditional)","Taiwanese Mandarin, Traditional",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/84396651-dbe6-4f50-a819-86fd61274ff3.mp3
+175,Nicholas,False,Premium,Middle Aged,"Serbian (Cyrillic, Serbia)","Cyrillic, Serbia",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Nicholas.mp3
+176,Sophie,True,Premium,Middle Aged,"Serbian (Cyrillic, Serbia)","Cyrillic, Serbia",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/Sophie.mp3
+177,Abbi,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/6725a819-df30-4b85-9766-5e2eca9362e5.mp3
+178,Bella,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e4d05b4c-7397-4219-89b8-b1f497658e52.mp3
+179,Hollie,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a6b3a912-a7b9-4356-8adb-acd252957145.mp3
+180,Olivia,True,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/dba00c32-8aac-45fd-a815-047dd8901f4c.mp3
+181,Maisie,True,Premium,Youth,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cf2ea697-6e1d-4c0e-94c9-9aad683ab8f6.mp3
+182,Alfie,False,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ce0badf7-9869-4c3f-b341-d02a9467c642.mp3
+183,Elliot,False,Premium,Elder,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/029068ad-98dc-4845-a7ea-62444b050ab0.mp3
+184,Etha,False,Premium,Elder,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b70f4fae-fd9b-4e17-b8a8-98a1cafca680.mp3
+185,Noah,False,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e932d8f5-518c-4522-8569-cc5d861696c9.mp3
+186,Oliver,False,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e3e4b7db-776e-4edc-a43a-9c03630500fb.mp3
+187,Thomas,False,Premium,Middle Aged,English (United Kingdom),United Kingdom,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f9246221-a752-4690-8c80-5bef0618c777.mp3
+188,Brigitte,True,Premium,youth,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b56b4470-11c7-4c72-ae59-31b57631eced.mp3
+189,Celeste,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/5c97324f-429d-4b1f-a452-fb3b460a915a.mp3
+190,Coralie,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9eceb85e-383c-4259-b687-15f13f044ed3.mp3
+191,Jacqueline ,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cd13d100-2db8-47f8-8bec-b00f70400b3a.mp3
+192,Josephine ,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/535a94af-1589-460c-bd6f-d66865e96da3.mp3
+193,Yvette  ,True,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/d3dac013-8c5e-4e35-ad2c-128aa66b6c15.mp3
+194,eloise  ,True,Premium,Youth,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/87793850-bee7-4545-82cc-9a70e143a404.mp3
+195,Alain ,False,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/d219e431-37c3-4f04-a44e-efade1d84b5e.mp3
+196,Claude ,False,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/6c204612-5ee8-46c4-a3b1-47c34a54d213.mp3
+197,Jerome ,False,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e161944a-ffd2-42b2-a7ae-48daf14bec15.mp3
+198,Maurice,False,,,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cb3f32ed-03da-4ac0-817c-7f472fbc698c.mp3
+199,Yves ,False,Premium,Middle Aged,French (France),France,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b3155014-d1db-4ca2-baab-a4c7297eab4a.mp3
+200,Amala ,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/172f3617-09e3-457b-a4b7-c6f7519992c7.mp3
+201,Elke,True,,,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/3e454af6-8592-4bb8-90df-fbd8a80170d5.mp3
+202,Klarissa,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4e69adf9-5abb-4041-8c49-14611f02428f.mp3
+203,Louisa,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/6c35c134-5901-442d-a33e-3361083c7afb.mp3
+204,Maja,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/485c56c7-d2aa-4a0a-acef-4d8633c48e2b.mp3
+205,Tanja,True,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/616a27d5-52f2-4b78-b90d-539d00523a2a.mp3
+206,Gisela,True,Premium,Youth,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/bd741190-1680-49ba-8023-5e5c8438dba8.mp3
+207,Bernd,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/b657ca35-99cb-4472-ab82-83bd1c88efb9.mp3
+208,Christoph,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/56960e74-bdb3-4bea-b131-135727ddc587.mp3
+209,Kasper,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/83f57813-b642-409a-8347-36112c01263c.mp3
+210,Killia,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/50b2ea78-792c-4f57-8755-ffc5bcc5c2a7.mp3
+211,Klaus,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/e302e518-1604-44ec-971f-676be003be70.mp3
+212,Ralf,False,Premium,Middle Aged,German (Germany),Germany,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/9c84ccde-2253-4c76-81fe-aa2b0c4751e5.mp3
+213,Adri,True,Premium,Middle Aged,Afrikaans (South Africa),South Africa,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/56544238-88f5-492c-bf8b-776de487c712.mp3
+214,Willem,False,Premium,Middle Aged,Afrikaans (South Africa),South Africa,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2b73fd95-123c-4b6b-9e4d-604f1ad81104.mp3
+215,Mekdes,True,Premium,Middle Aged,Amharic (Ethiopia),Ethiopia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/10ef634c-7651-429f-88dc-54f232fb258e.mp3
+216,Ameha,False,Premium,Middle Aged,Amharic (Ethiopia),Ethiopia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/8adfb064-5b12-4d0f-be7b-9d8a6261680b.mp3
+217,Amina,True,Premium,Middle Aged,Arabic (Algeria),Algeria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/eca4a3a2-1d1e-4827-b4c9-b9ff711fe0cd.mp3
+218,Ismael,False,Premium,Middle Aged,Arabic (Algeria),Algeria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/217b3790-4952-4700-9515-b5701b5b0716.mp3
+219,Laila,True,Premium,Middle Aged,Arabic (Bahrain),Bahrain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/62fbb46b-47f0-4025-841f-f47f511f5484.mp3
+220,Ali,False,Premium,Middle Aged,Arabic (Bahrain),Bahrain,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/284329c8-bd46-4841-b1b2-c39f14cb7984.mp3
+221,Rana,True,Premium,Middle Aged,Arabic (Iraq),Iraq,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/25861694-bdd3-4636-91d3-f280baaa756a.mp3
+222,Bassel,False,Premium,Middle Aged,Arabic (Iraq),Iraq,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4439b246-1409-40ec-adfa-611f57945d60.mp3
+223,Sana,True,Premium,Middle Aged,Arabic (Jordan),Jordan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a7e2cb63-d57d-48cc-8a57-576279d35712.mp3
+224,Taim,False,Premium,Middle Aged,Arabic (Jordan),Jordan,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c44c4a32-4069-40e8-a3e2-c80a7c8b484a.mp3
+225,Noura,True,Premium,Middle Aged,Arabic (Kuwait),Kuwait,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a6e23fe5-7655-425b-9eab-94423b193808.mp3
+226,Fahed,False,Premium,Middle Aged,Arabic (Kuwait),Kuwait,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/2f1b73ab-1369-4267-9f33-0f7e55cb7c00.mp3
+227,Ima,True,Premium,Middle Aged,Arabic (Libya),Libya,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/bdd70613-3f4c-49ff-9e48-c3aaac8a0d41.mp3
+228,Omar,False,Premium,Middle Aged,Arabic (Libya),Libya,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/3663ca86-72d0-404e-be29-8ca2a6bab382.mp3
+229,Mouna,True,Premium,Middle Aged,Arabic (Morocco),Morocco,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/41948dd5-1376-4e18-b8a9-2afdc53d6ce8.mp3
+230,Jamal,False,Premium,Middle Aged,Arabic (Morocco),Morocco,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/27a587b1-1449-4792-a6dd-84b995b02089.mp3
+231,Amal,True,Premium,Middle Aged,Arabic (Qatar),Qatar,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/54b08757-6f42-44cb-be1d-8358ff79fa78.mp3
+232,Moaz,False,Premium,Middle Aged,Arabic (Qatar),Qatar,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c45b4ff6-0fae-4382-ae5b-41190341ed09.mp3
+233,Amany,True,Premium,Middle Aged,Arabic (Syria),Syria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/93981fc0-abbf-487d-95ca-e558ed7d11bf.mp3
+234,Laith,False,Premium,Middle Aged,Arabic (Syria),Syria,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/238e2105-aba4-4288-a887-34b5a638605c.mp3
+235,Reem,True,Premium,Middle Aged,Arabic (Tunisia),Tunisia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/a11c3552-9722-481a-981d-aae2093785f1.mp3
+236,Hedi,False,Premium,Middle Aged,Arabic (Tunisia),Tunisia,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/c3aa8fc8-c206-48de-8ea8-05ebb76c1dd2.mp3
+237,Fatima,True,Premium,Middle Aged,Arabic (United Arab Emirates),United Arab Emirates,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4bb682f3-85f3-45b5-8e6d-58c363d2dabe.mp3
+238,Hamda,False,Premium,Middle Aged,Arabic (United Arab Emirates),United Arab Emirates,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/4b45077f-0ee6-4af6-848e-bc9162ec7c41.mp3
+239,Maryam,True,,,Arabic (Yemen),Yemen,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/35c81a98-f79e-4762-ad27-2ec79bbab4c5.mp3
+240,Saleh,False,Premium,Middle Aged,Arabic (Yemen),Yemen,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/62360763-c582-4b02-961b-c3b397556604.mp3
+241,Nabanita ,True,Premium,Middle Aged,Bangla (Bangladesh),Bangladesh,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/50e81419-2101-484f-9d42-95dcccb5b6ec.mp3
+242,Pradeep,False,Premium,Middle Aged,Bangla (Bangladesh),Bangladesh,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/cd26fec6-b66f-455b-92c3-3f4ea39954d6.mp3
+243,Tanishaa,True,,,Bengali (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/294af50c-6e6f-4e86-80c6-f74b245dbc15.mp3
+244,Bashkar,False,Premium,Middle Aged,Bengali (India),India,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/687a8dac-5f6f-4349-84fc-e8059cbb44e0.mp3
+245,Nilar ,True,Premium,Middle Aged,Burmese (Myanmar),Myanmar,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/7cd9c73b-1c69-4a1e-9294-b0098ec79b9e.mp3
+246,Thiha,False,Premium,Middle Aged,Burmese (Myanmar),Myanmar,https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/afe13c13-dc64-4c58-9ca0-0b6161cfc425.mp3
+247,Xiaoche,True,,,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/98024fd6-6d6c-43e2-b24a-bdb0f6e8ba7f.mp3
+248,Xiaoqiu,True,Premium,Middle Aged,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/f5c643ce-ad8f-49b8-baa8-2136fc7dae68.mp3
+249,Xiaoshuang ,True,Premium,Youth,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/ca065b3e-bbbd-4abd-a39f-0ec1c7ac37b4.mp3
+250,Xiaoya,True,,,"Chinese (Mandarin, Simplified)","Mandarin, Simplified",https://d9f35555a8b3e9044c8d-95c21efaab8093d23d4124e599a618ee.ssl.cf5.rackcdn.com/synthesys-v2/VoiceActorSamples/260528d6-37d3-436c-8251-d97751b82db4.mp3
